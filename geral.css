@@ -1,17 +1,18 @@
-:root {
-    --cor_de_fundo: #EDC3B7;
-    --cor_primaria_fonte: #73B7FF;
+:root{
+    --cor_de_fundo: #901010;
+    --cor_primaria_fonte: #000000;
 }
 * {
-    margin: 0;
+    margin:  0;
     padding: 0;
 }
 .banner{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 50px;
     background-color: var(--cor_de_fundo);
 }
 .conteudo {
     width: 100%;
     height: 500px;
 }
+
