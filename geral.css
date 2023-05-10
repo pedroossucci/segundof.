@@ -1,18 +1,15 @@
-:root{
-    --cor_de_fundo: #901010;
-    --cor_primaria_fonte: #000000;
-}
-* {
-    margin:  0;
+*{
+    margin: 100px;
     padding: 0;
 }
-.banner{
-    width: 200px;
-    height: 50px;
-    background-color: var(--cor_de_fundo);
+body {
+    font-style: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.conteudo {
+.menu {
     width: 100%;
-    height: 500px;
+    height: 10%;
+    background-color: aqua;
 }
+
 
